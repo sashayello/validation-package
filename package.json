@@ -1,0 +1,39 @@
+{
+  "name": "validation-package",
+  "version": "1.0.0",
+  "description": "Validation data as an email, first/last name, phone number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashayello/validation-package.git"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "validation",
+    "module",
+    "validation",
+    "email",
+    "validation",
+    "name",
+    "validation",
+    "phone",
+    "number",
+    "validation",
+    "email",
+    "module",
+    "validation",
+    "phone",
+    "number",
+    "module"
+  ],
+  "author": "sashkayello@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashayello/validation-package/issues"
+  },
+  "homepage": "https://github.com/sashayello/validation-package#readme"
+}
